@@ -3,6 +3,7 @@
 using namespace std;
 
 #define N 9
+//i have taken some already filled cells in the sudoku for demo 
 
 void printBoard(const vector<vector<int> >& board)
 {
