@@ -4,9 +4,6 @@ using namespace std;
 
 #define N 9
 
-
-
-
 void printBoard(const vector<vector<int> >& board)
 {
     for (int r = 0; r < N; r++) 
